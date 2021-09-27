@@ -4,7 +4,7 @@
 
 💻<h2>I'm Senior Delphi Developer</h2>
 
-<h3> I'm from Brazil (🇧🇷). I've been working as Software Developer since 2007.</h3>
+🏡<h3>Brazil (🇧🇷). I've been working as Software Developer since 2007.</h3>
 
 In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
 
