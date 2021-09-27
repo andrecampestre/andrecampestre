@@ -1,4 +1,8 @@
+#Welcome!
+
 <h1 align="center">Hi 👋, I'm Andre Loiola</h1>
+
+💻<h2>I'm Senior Delphi Developer</h2>
 
 <h3> I'm from Brazil (🇧🇷). I've been working as Software Developer since 2007.</h3>
 
